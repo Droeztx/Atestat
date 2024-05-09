@@ -1,0 +1,193 @@
+#main1 {
+  width: 100vw;
+  height: 200vh;
+  display: block;
+  position: absolute;
+}
+#main_fundal1 {
+  height: 100%;
+  width: 100%;
+  position: relative;
+  display: block;
+  background-color: rgb(219, 192, 173);
+}
+
+.baza_font_main1 {
+  font-size: large;
+  font-style: normal;
+  font-family: "Jersey 20";
+  font-weight: 1000;
+  color: rgb(0, 0, 0);
+}
+.divpoze {
+  display: flex;
+  position: relative;
+  height: fit-content;
+  width: 100%;
+}
+
+#b460eagle {
+  display: inline-block;
+  position: relative;
+  width: 300px;
+  height: 300px;
+  padding-left: 14%;
+  padding-top: 7%;
+}
+#b550 {
+  display: inline-block;
+  position: relative;
+  height: 300px;
+  width: 300px;
+  padding-top: 7%;
+  padding-left: 10%;
+}
+#b650 {
+  display: inline-block;
+  position: relative;
+  height: 300px;
+  width: 300px;
+  padding-top: 7%;
+  padding-left: 10%;
+}
+
+#b460eagletext {
+  display: block;
+  position: relative;
+  white-space: nowrap;
+  height: fit-content;
+  width: fit-content;
+  padding-left: 14%;
+  padding-bottom: 5%;
+}
+
+#b550text {
+  display: block;
+  position: relative;
+  white-space: nowrap;
+  height: fit-content;
+  width: fit-content;
+  padding-left: 10%;
+  padding-bottom: 5%;
+}
+
+#b650text {
+  display: block;
+  position: relative;
+  white-space: nowrap;
+  height: fit-content;
+  width: fit-content;
+  padding-left: 7%;
+  padding-bottom: 5%;
+}
+
+#x670 {
+  display: block;
+  position: relative;
+  white-space: nowrap;
+  height: 300px;
+  width: 300px;
+  padding-left: 14%;
+}
+
+#x670p {
+  display: block;
+  position: relative;
+  white-space: nowrap;
+  height: 300px;
+  width: 300px;
+  padding-left: 10%;
+}
+
+#z790 {
+  display: block;
+  position: relative;
+  white-space: nowrap;
+  height: 300px;
+  width: 300px;
+  padding-left: 10%;
+}
+
+#x670text {
+  display: block;
+  position: relative;
+  white-space: nowrap;
+  height: fit-content;
+  width: fit-content;
+  padding-left: 14%;
+  padding-bottom: 5%;
+}
+
+#x670ptext {
+  display: block;
+  position: relative;
+  white-space: nowrap;
+  height: fit-content;
+  width: fit-content;
+  padding-left: 14%;
+  padding-bottom: 5%;
+}
+
+#z790text {
+  display: block;
+  position: relative;
+  white-space: nowrap;
+  height: fit-content;
+  width: fit-content;
+  padding-left: 14%;
+  padding-bottom: 5%;
+}
+
+#b760g {
+  display: block;
+  position: relative;
+  white-space: nowrap;
+  height: 300px;
+  width: 300px;
+  padding-left: 14%;
+}
+
+#b760m {
+  display: block;
+  position: relative;
+  white-space: nowrap;
+  height: 300px;
+  width: 300px;
+  padding-left: 10%;
+}
+#z790Aqu {
+  display: block;
+  position: relative;
+  white-space: nowrap;
+  height: 300px;
+  width: 300px;
+  padding-left: 10%;
+}
+#b760gtext {
+  display: block;
+  position: relative;
+  white-space: nowrap;
+  height: fit-content;
+  width: fit-content;
+  padding-left: 14%;
+  padding-bottom: 5%;
+}
+#b760mtext {
+  display: block;
+  position: relative;
+  white-space: nowrap;
+  height: fit-content;
+  width: fit-content;
+  padding-left: 11%;
+  padding-bottom: 5%;
+}
+
+#z790Aqutext {
+  display: block;
+  position: relative;
+  white-space: nowrap;
+  height: fit-content;
+  width: fit-content;
+  padding-left: 12%;
+  padding-bottom: 5%;
+}

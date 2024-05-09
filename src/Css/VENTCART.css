@@ -1,0 +1,117 @@
+#main6 {
+  width: 100vw;
+  height: 230vh;
+  display: block;
+  position: absolute;
+}
+#main_fundal6 {
+  height: 100%;
+  width: 100%;
+  position: relative;
+  display: block;
+  background-color: rgb(219, 192, 173);
+}
+
+.baza_font_main1 {
+  font-size: large;
+  font-style: normal;
+  font-family: "Jersey 20";
+  font-weight: 1000;
+  color: rgb(0, 0, 0);
+}
+.divpoze {
+  display: flex;
+  position: relative;
+  height: fit-content;
+  width: 100%;
+}
+
+#c1 {
+  display: block;
+  position: relative;
+  white-space: nowrap;
+  height: fit-content;
+  width: fit-content;
+  padding-left: 12%;
+  padding-bottom: 5%;
+}
+
+#tank {
+  display: block;
+  position: relative;
+  white-space: nowrap;
+  height: fit-content;
+  width: fit-content;
+  padding-left: 13%;
+  padding-bottom: 5%;
+}
+
+#rogn {
+  display: block;
+  position: relative;
+  white-space: nowrap;
+  height: fit-content;
+  width: fit-content;
+  padding-left: 12%;
+  padding-bottom: 5%;
+}
+
+#cso {
+  display: block;
+  position: relative;
+  white-space: nowrap;
+  height: fit-content;
+  width: fit-content;
+  padding-left: 12%;
+  padding-bottom: 5%;
+}
+
+#csw {
+  display: block;
+  position: relative;
+  white-space: nowrap;
+  height: fit-content;
+  width: fit-content;
+  padding-left: 13%;
+  padding-bottom: 5%;
+}
+
+#m3ga {
+  display: block;
+  position: relative;
+  white-space: nowrap;
+  height: fit-content;
+  width: fit-content;
+  padding-left: 13%;
+  padding-bottom: 5%;
+}
+
+#v1 {
+  display: block;
+  position: relative;
+  white-space: nowrap;
+  height: fit-content;
+  width: fit-content;
+  padding-left: 12%;
+  padding-bottom: 5%;
+}
+
+#v2 {
+  display: block;
+  position: relative;
+  white-space: nowrap;
+  height: fit-content;
+  width: fit-content;
+  padding-left: 8%;
+  padding-bottom: 5%;
+}
+
+#coolercpu {
+  display: block;
+  position: relative;
+  white-space: nowrap;
+  height: fit-content;
+  width: fit-content;
+  padding-left: 9%;
+  padding-bottom: 5%;
+}

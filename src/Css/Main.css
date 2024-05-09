@@ -1,0 +1,16 @@
+#main {
+  width: 100vw;
+  height: 125vh;
+  display: block;
+  position: absolute;
+}
+
+#main_fundal {
+  height: 100%;
+  width: 100%;
+  position: relative;
+  display: block;
+  background-color: rgb(219, 192, 173);
+}
+
+/* 223 204 190 */

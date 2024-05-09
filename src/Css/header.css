@@ -1,0 +1,121 @@
+#main_dreptunhi {
+  width: 100%;
+  height: 125px;
+  position: fixed;
+  display: block;
+  background-color: rgba(60, 54, 51);
+  z-index: 1;
+}
+
+#main_forma {
+  height: 100px;
+  width: 100px;
+  position: relative;
+  display: flex;
+  background-color: rgb(116, 114, 100);
+  border-radius: 100%;
+  left: 20px;
+  top: 10px;
+  border-top: 0px;
+}
+
+#poza_test {
+  display: block;
+  position: relative;
+  left: 12%;
+  top: 10%;
+  border-radius: 100%;
+  height: 80px;
+  width: 80px;
+  border-top: 0px;
+}
+
+.stil_text_drepthunghi_sus {
+  font-size: x-large;
+  font-style: normal;
+  font-family: "Jersey 20";
+  font-weight: 1000;
+  font-variant: normal;
+  color: rgb(141, 133, 116);
+}
+#dreptunghi_text {
+  width: 100%;
+  display: inline-flex;
+  position: relative;
+  padding-left: 70px;
+}
+#ohoho {
+  display: inline-block;
+  position: relative;
+  height: fit-content;
+  width: fit-content;
+  white-space: nowrap;
+  padding-right: 30px;
+  padding-top: 45px;
+}
+
+#placa_baza {
+  display: inline-block;
+  position: relative;
+  height: fit-content;
+  width: fit-content;
+  white-space: nowrap;
+
+  padding-right: 30px;
+  padding-top: 45px;
+}
+
+#placa_video {
+  display: inline-block;
+  position: relative;
+  height: fit-content;
+  width: fit-content;
+  white-space: nowrap;
+
+  padding-right: 30px;
+  padding-top: 45px;
+}
+
+#procesor {
+  display: inline-block;
+  position: relative;
+  height: fit-content;
+  width: fit-content;
+  white-space: nowrap;
+
+  padding-right: 30px;
+  padding-top: 45px;
+}
+
+#placa_ram {
+  display: inline-block;
+  position: relative;
+  height: fit-content;
+  width: fit-content;
+  white-space: nowrap;
+
+  padding-right: 30px;
+  padding-top: 45px;
+}
+
+#surse {
+  display: inline-block;
+  position: relative;
+  height: fit-content;
+  width: fit-content;
+  white-space: nowrap;
+
+  padding-right: 30px;
+  padding-top: 45px;
+}
+
+#fanuri {
+  display: inline-block;
+  position: relative;
+  height: fit-content;
+  width: fit-content;
+  white-space: nowrap;
+
+  padding-right: 30px;
+  padding-top: 45px;
+}

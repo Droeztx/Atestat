@@ -1,0 +1,12 @@
+@import "./Css/Main.css";
+@import "./Css/header.css";
+@import "./Css/text_pagina_prin.css";
+@import "./Css/MB.css";
+@import "./Css/VC.css";
+@import "./Css/CPU.css";
+@import "./Css/Ram.css";
+@import "./Css/SUME.css";
+@import "./Css/VENTCART.css";
+html {
+  scroll-behavior: smooth;
+}
